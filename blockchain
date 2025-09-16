@@ -1,5 +1,32 @@
-La blockchain es un libro de contabilidad digital descentralizado, inmutable y transparente que registra transacciones de forma segura.
-
-En esencia, es una base de datos especial que almacena información en bloques que están encadenados entre sí cronológicamente usando 
-criptografía. Su característica más revolucionaria es que no está controlada por una sola entidad (como un banco o un gobierno),
-sino que es mantenida por una red de computadoras.
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "id": "a234a963",
+   "metadata": {},
+   "source": [
+    "    ¿Qué es Blockchain?\n",
+    "En términos simples, un blockchain es un libro de contabilidad digital descentralizado, inmutable y transparente que registra transacciones de manera segura.\n",
+    "\n",
+    "Imagínalo como un registro público o un documento de Google Sheets que no es controlado por una sola persona o entidad, sino que miles de computadoras en todo el mundo tienen una copia idéntica. Cuando alguien quiere añadir una nueva información (como una transacción), debe ser verificada por consenso por la mayoría de los participantes de la red. Una vez añadida, es prácticamente imposible de modificar o eliminar.\n",
+    "\n",
+    "    Características:\n",
+    "\n",
+    "Descentralización: No hay una autoridad central (como un banco o un gobierno) que controle la información. La red es mantenida por una comunidad de usuarios (nodos).\n",
+    "\n",
+    " Inmutabilidad: Una vez que un dato se registra en la blockchain, es extremadamente difícil alterarlo o eliminarlo. Esto se debe a la criptografía y al consenso de la red. Garantiza que los registros sean permanentes y a prueba de manipulaciones.\n",
+    "\n",
+    " Transparencia: Todas las transacciones registradas son visibles para cualquiera que tenga acceso a la red (en las blockchains públicas). Esto crea un alto nivel de auditoría y confianza.\n",
+    "\n",
+    " Seguridad: Utiliza criptografía avanzada (como funciones hash) para sellar los bloques. Además, al estar distribuido, para hackearlo un atacante tendría que modificar la mayoría de las copias de la red al mismo tiempo, lo que es computacionalmente inviable."
+   ]
+  }
+ ],
+ "metadata": {
+  "language_info": {
+   "name": "python"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
